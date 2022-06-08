@@ -26,8 +26,7 @@
 <h5><font size="2">
 <h2><font size="2">Formação acadêmica:</font></h2><font size="2">
 <h6><font size="2">• IFCE (Instituto Federal de Ciência e Tecnologia) Matemática<br>
-<h2><font size="2">Certificados:</font></h2><font size="2">
-<p>[office src="https://onedrive.live.com/embed?cid=FB53E144D45EF96A&amp;resid=FB53E144D45EF96A%211779&amp;authkey=ANB06QlHCbcCkrU" width="165" height="128"]<br>
+<h2><font size="2">Certificados:</font></h2><font size="2"><p>[office src="https://onedrive.live.com/embed?cid=FB53E144D45EF96A&amp;resid=FB53E144D45EF96A%211779&amp;authkey=ANB06QlHCbcCkrU" width="165" height="128"]<br>
 <font size="2">
 • AutoCad Essencial<br> 
 • Introdução ao Python (em conclusão)<br>
